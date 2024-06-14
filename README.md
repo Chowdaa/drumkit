@@ -2,7 +2,7 @@
 
 A simple and interactive drumkit web application.
 
-<img src="drum.png" width="600" height="400">
+<img src="drum.png" width="600" height="300">
 
 ## Technologies Used
 
