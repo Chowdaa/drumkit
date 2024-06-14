@@ -2,7 +2,7 @@
 
 A simple and interactive drumkit web application.
 
-![Drumkit Screenshot](images/screenshot.png)
+<img src="drum.png" width="600" height="400">
 
 ## Technologies Used
 
